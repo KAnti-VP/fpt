@@ -1,0 +1,53 @@
+1. feladat
+
+Hozzon létre egy tárolót, amely három elemet tartalmaz (zöld, sárga, lila - ebben a sorrendben). 
+A tároló szélessége 800 xéppont, magassága 300 képpont. 
+Hozzon létre egy CSS fájlt a tárolóban lévő elemek elrendezéséhez. 
+Használja a Flexboxot. 
+Állítsa be a címet "Feladat: 2.1"-re. 
+A zöld, a sárga és a lila elemek 100 × 100 képpont nagyságúak.
+A tároló sárga színű.
+A zöld és a sátga elem nem jelenik meg.
+A lila elen a tároló közepén helyezkedik el.
+Lásd: flexbox2 - kép1.png
+
+
+2. feladat
+
+Hozzon létre egy tárolót, amely négy elemet tartalmaz. 
+A tároló szélessége 100%, magassága 400 képpont. 
+Hozzon létre egy CSS fájlt a tárolóban lévő elemek elrendezéséhez. 
+Használja a Flexboxot. 
+Állítsa be a címet "Feladat: 2.2"-re. 
+Az elemek 100 × 100 képpont nagyságúak és lila színűek.
+Az elemek a tároló bal szélén, vetrikálisan középen helyezkednek el.
+A tároló sárga színű.
+Lásd: flexbox2 - kép2.png
+
+
+3. feladat
+
+Hozzon létre egy tárolót, amely négy elemet tartalmaz. 
+A tároló szélessége 100%, magassága 400 képpont. 
+Hozzon létre egy CSS fájlt a tárolóban lévő elemek elrendezéséhez. 
+Használja a Flexboxot. 
+Állítsa be a címet "Feladat: 2.3"-re. 
+Az elemek 100 × 100 képpont nagyságúak és lila színűek.
+Az elemek a tárolóban vetrikálisan egyenletesen vannak elrendezbe a bal széléstől a jobb széléig.
+A tároló sárga színű.
+Lásd: flexbox2 - kép3.png
+
+
+4. feladat
+
+Hozzon létre egy tárolót, amely négy elemet tartalmaz. 
+A tároló szélessége 100%, magassága 400 képpont. 
+Hozzon létre egy CSS fájlt a tárolóban lévő elemek elrendezéséhez. 
+Használja a Flexboxot. 
+Állítsa be a címet "Feladat: 2.4"-re. 
+Az elemek 100 × 100 képpont nagyságúak és lila színűek.
+Az elemek a tárolóban jobb szélének az alján helyezkeknek el.
+A tároló sárga színű.
+Lásd: flexbox2 - kép4.png
+
+
