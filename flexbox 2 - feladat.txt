@@ -14,7 +14,7 @@ Lásd: flexbox2 - kép1.png
 
 2. feladat
 
-Hozzon létre egy tárolót, amely négy elemet tartalmaz. 
+Hozzon létre egy tárolót, amely négy (lila) lista elemet tartalmaz. 
 A tároló szélessége 100%, magassága 400 képpont. 
 Hozzon létre egy CSS fájlt a tárolóban lévő elemek elrendezéséhez. 
 Használja a Flexboxot. 
@@ -27,7 +27,7 @@ Lásd: flexbox2 - kép2.png
 
 3. feladat
 
-Hozzon létre egy tárolót, amely négy elemet tartalmaz. 
+Hozzon létre egy tárolót, amely négy (lila) lista elemet tartalmaz. 
 A tároló szélessége 100%, magassága 400 képpont. 
 Hozzon létre egy CSS fájlt a tárolóban lévő elemek elrendezéséhez. 
 Használja a Flexboxot. 
@@ -40,7 +40,7 @@ Lásd: flexbox2 - kép3.png
 
 4. feladat
 
-Hozzon létre egy tárolót, amely négy elemet tartalmaz. 
+Hozzon létre egy tárolót, amely négy (lila) lista elemet tartalmaz. 
 A tároló szélessége 100%, magassága 400 képpont. 
 Hozzon létre egy CSS fájlt a tárolóban lévő elemek elrendezéséhez. 
 Használja a Flexboxot. 
