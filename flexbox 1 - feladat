@@ -1,0 +1,38 @@
+1. feladat
+
+Hozzon létre egy tárolót, amely három elemet tartalmaz (zöld, sárga, lila). 
+A tároló szélessége 100%, magassága 300 képpont. 
+Hozzon létre egy CSS fájlt a tárolóban lévő elemek megjelenítéséhez. 
+Használja a Flexboxot. Állítsa be a címet "Feladat: 1.1"-re.
+Lásd: kép1.png
+
+     <div>
+        <div></div>
+        <div></div>
+        <div></div>
+      </div>
+
+
+2. feladat
+
+Hozzon létre egy tárolót, amely három elemet tartalmaz (zöld, sárga, lila). 
+A tároló szélessége 100%, magassága 300 képpont. 
+Hozzon létre egy CSS fájlt a tárolóban lévő elemek megjelenítéséhez. 
+Használja a Flexboxot. Állítsa be a címet "Feladat: 1.2"-re. A zölf elem 1, a sárga 2, a lila 1 egységet foglal el a tárolóban. Az elemek sorrendje: zöld, sárga, lila.
+Lásd: kép2.png
+
+3. feladat
+
+Hozzon létre egy tárolót, amely három elemet tartalmaz (zöld, sárga, lila). 
+A tároló szélessége 100%, magassága 300 képpont. 
+Hozzon létre egy CSS fájlt a tárolóban lévő elemek megjelenítéséhez. 
+Használja a Flexboxot. Állítsa be a címet "Feladat: 1.3"-re. A zölf elem 1, a sárga 2, a lila 1 egységet foglal el a tárolóban. Az elemek sorrendje: lila, sárga, zöld.
+Lásd: kép3.png
+
+4. feladat
+
+Hozzon létre egy tárolót, amely három elemet tartalmaz (zöld, sárga, lila - ebben a sorrendben). 
+A tároló szélessége 600 xéppont, magassága 500 képpont. 
+Hozzon létre egy CSS fájlt a tárolóban lévő elemek megjelenítéséhez. 
+Használja a Flexboxot. Állítsa be a címet "Feladat: 1.4"-re. A zölf elem 1, a sárga 2, a lila 1 egységet foglal el a tárolóban. Az elemek horizontális sorrendje: zöld, lila, sárga.
+Lásd: kép4.png
